@@ -22,7 +22,7 @@ agua = ((adultos + adultosAlcool) * 0.4) + (crianças * 0.4);
 
 Console.WriteLine("--- Churrasco ---");
 
-Console.WriteLine($"Adultos (que consomem bebidas alcoólicas).......: {adultosAlcool} ");
+Console.WriteLine($"\nAdultos (que consomem bebidas alcoólicas).......: {adultosAlcool} ");
 Console.WriteLine($"Adultos (que não consomem bebidas alcoólicas)...: {adultos} ");
 Console.WriteLine($"Crianças........................................: {crianças}");
 
